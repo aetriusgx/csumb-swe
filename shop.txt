@@ -1,6 +1,5 @@
 Lemons
-Bananas 
-Broccoli
+Bananas Broccoli
 Rabbit Food
 Cereal
 Bread
